@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+}
+.user{
+    font-style: italic;
+    margin: 0px;
+}
+.post{
+    background-color: antiquewhite;
+}
+.content{
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+}
+#del{
+    display: inline-flex;
+}
